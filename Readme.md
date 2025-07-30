@@ -1,25 +1,20 @@
-![lab](/resources/pclogo.png)
+# <div align="center">IT2011 - AIML</div>
 ## <div align="center">Lab 01</div>
 
 ## Objectives:  
-* Using a AWS EC2 Linux Instance
-* Accessing AWS EC2 Linux instance through ssh
-* Installing OpenMP library
-* Compiling a simple OpenMP program
+* Learn about using different types of prompting styles
+* Use OpenAI's API
+* Calling Hugging Face and its APIs
 
-## Exercise 0:
 
-1. Create a GitHub repo with your student id.  If you already have one you can use it.
-2. Login to your GitHub account
-3. Run the following link to close Lab01 to your Github account https://classroom.github.com/a/8QYtXS9B
-4. You have to do the exercises given in the repository and commit and push your solutions into it.
 
 ## Exercise 1:
-Use the provided AWS Cloud Foundation course provided and complete the Lab 03 - Introduction to EC2 Lab in Module 06
+Use the provided AWS Academy Generative AI Foundations course provided https://awsacademy.instructure.com/courses/129069 and complete the two activities in Module 04 - Using prompts and prompt engineering 
 
 ![lab2](/resources/ec2lab.png)
 
-1. Provide Screen shots of you completing the lab (Have at least 10 screen shots at different stages of your Lab)
+1. Provide Screen shots of you doing the two labs as evidence.
+2. Submit your answers under Exercise 1
 
 ## Exercise 2:
 
