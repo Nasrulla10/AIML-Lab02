@@ -11,7 +11,7 @@
 ## Exercise 1:
 Use the provided AWS Academy Generative AI Foundations course provided https://awsacademy.instructure.com/courses/129069 and complete the two activities in Module 04 - Using prompts and prompt engineering 
 
-![lab2](/resources/ec2lab.png)
+![lab2](/resources/lab.png)
 
 1. Provide Screen shots of you doing the two labs as evidence.
 2. Submit your answers under Exercise 1
