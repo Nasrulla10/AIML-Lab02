@@ -76,9 +76,10 @@ Please see the figure below if you have issues running this
 6. Create an account in https://colab.research.google.com
 7. Change Runtime to GPU
 ![lab4](/resources/lab04.png)
+<img src="lab04.png" alt="Alt text" style="width: 50%;"/>
 
-8. Run the summarization example in a codeblock
-9. 
+9. Run the summarization example in a codeblock
+10. 
 
 
 
