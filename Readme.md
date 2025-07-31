@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">IT2011 - Artificial Intelligence and Machine Learning</h1>
-<h2 align="center">Lab 02</h2>
+<h2 align="center">Lab 02 - Introduction to Generative AI</h2>
 
 
 ## Objectives:  
