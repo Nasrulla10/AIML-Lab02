@@ -76,7 +76,8 @@ Please see the figure below if you have issues running this
 6. Create an account in https://colab.research.google.com
 7. Change Runtime to GPU
 ![lab4](/resources/lab04.png)
-<img src="lab04.png" alt="Alt text" style="width: 50%;"/>
+<img src="/resources/lab04.png" alt="Alt text" style="width: 50%;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="React Logo" width="100"/>
 
 9. Run the summarization example in a codeblock
 10. 
