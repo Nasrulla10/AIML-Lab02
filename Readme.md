@@ -99,7 +99,8 @@ summary = summarizer("""Hugging Face is a pioneering open-source AI platform
 print(summary)
 
 ```
-10. Run the summarization for a specific model given below
+10. Have a look at a specific summarization model available in HuggingFace - https://huggingface.co/EbanLee/kobart-summary-v3
+11. Run the summarization for this model given below
 
 ```
 from transformers import pipeline
@@ -118,6 +119,11 @@ datasets, and community-driven contributions."""
 summary = summarizer(text, max_length=20, min_length=5, do_sample=False)
 print(summary)
 ```
-11. Attach screen shots of your solution running for 9 and 10
+12. Select a Natural Language Model of your choice from Hugging Face
+
+<img src="/resources/lab05.png" alt="Alt text" style="width: 70%;"/>
+
+14. 
+11. Attach screen shots of your solution running for 9, 11, 12
 
 
