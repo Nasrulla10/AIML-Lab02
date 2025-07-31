@@ -61,6 +61,28 @@ Please see the figure below if you have issues running this
 ![lab4](/resources/lab03.png)
 
 
+6. Copy the codeblock given above again to the next cell and perform the following changes
+7. Give a System Prompt for a chatbot to behave as an expert event planner
+8. Give a User Prompt asking for advice how to plan for an event you have to do, maybe your friends Birthday Party, or a Batch Outing
+9. Tryout a unique System prompt and User Prompt for a problem of your choice.
+10. Share screen shots and upload the prompts and responses for activities 7,8,9
+
+## Exercise 5.
+1. Create an account in https://huggingface.co
+2. Select any AI project of your liking under Spaces
+3. Tryout the AI project and generate the output
+4. Share screenshots of your usage of the AI project
+5. Under Models select a Model of your choice to find more details about it
+6. Create an account in https://colab.research.google.com
+7. Change Runtime to GPU
+![lab4](/resources/lab04.png)
+
+8. Run the summarization example in a codeblock
+9. 
+
+
+
+
 ```c
 #include <stdio.h>
 #include <omp.h>
