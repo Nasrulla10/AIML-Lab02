@@ -1,5 +1,5 @@
-# <div align="center">IT2011 - AIML</div>
-## <div align="center">Lab 01</div>
+# <div align="center">IT2011 - Artificial Intelligence and Machine Learning</div>
+## <div align="center">Lab 02</div>
 
 ## Objectives:  
 * Learn about using different types of prompting styles
@@ -27,14 +27,18 @@ Look at the LLM Leaderboard - https://artificialanalysis.ai/leaderboards/models
 ## Exercise 3:
 Use the following large language models, enabling the reasoning model of the platform and generate a detail report on "How you can use generative AI as a university student to learn subjects like probability and statistics, data base management systems and software engineering"
 
-https://chat.deepseek.com - Deepthing R1
-https://chat.qwen.ai - Thinking
-https://x.com/i/grok - DeepSearch
+1. https://chat.deepseek.com - Deepthing R1
+2. https://chat.qwen.ai - Thinking
+3. https://x.com/i/grok - DeepSearch
 
 In your submission, mention the LLMs used, the report, and a reflection of anything useful you have found, in your opinion which tool produced the best results
 
 ## Exercise 4:
-Complete the following program in the same Lab Instance, you will have to install openmp in your linux enviroment.
+
+1. Create an account at https://www.deeplearning.ai
+2. Register to the free course at https://learn.deeplearning.ai/courses/chatgpt-building-system
+3. 
+
 
 ```c
 #include <stdio.h>
