@@ -131,7 +131,7 @@ print(summary)
 
 <img src="/resources/lab05.png" alt="Alt text" style="width: 30%;"/>
 
-13. Try your best to see if you can get this model running in Google CoLab.  In some instances you will have to install additional python libraries.
+13. Try your best to see if you can get your selected Model running in Google CoLab.  In some instances you will have to install additional python libraries.
 Some models have on the Right Side called Use this Model, where you can get Google CoLab code that you can try to use.
 <img src="/resources/lab06.png" alt="Alt text" style="width: 25%;"/>
 15. Attach screen shots of your solution running for 9, 11, and 13
