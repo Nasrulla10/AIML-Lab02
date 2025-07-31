@@ -1,9 +1,10 @@
-<div style="text-align: center;">
-  <img src="/resources/sliit.png" alt="Alt text" style="width: 10%;" />
-</div>
-</br>
-# <div align="center">IT2011 - Artificial Intelligence and Machine Learning</div>
-## <div align="center">Lab 02</div>
+<p align="center">
+  <img src="/resources/sliit.png" alt="Alt text" width="100"/>
+</p>
+
+<h1 align="center">IT2011 - Artificial Intelligence and Machine Learning</h1>
+<h2 align="center">Lab 02</h2>
+
 
 ## Objectives:  
 * Learn about using different types of prompting styles
