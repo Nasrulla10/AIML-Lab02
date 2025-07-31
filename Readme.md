@@ -12,7 +12,7 @@
 Use the provided AWS Academy Generative AI Foundations course provided https://awsacademy.instructure.com/courses/129069 and complete the two activities in Module 04 - Using prompts and prompt engineering 
 
 
-<img src="/resources/lab.png" alt="Alt text" style="width: 40%;"/>
+<img src="/resources/lab.png" alt="Alt text" style="width: 50%;"/>
 
 
 1. Provide Screen shots of you doing the two labs as evidence.
@@ -41,7 +41,9 @@ In your submission, mention the LLMs used, the report, and a reflection of anyth
 2. Register to the free course at https://learn.deeplearning.ai/courses/chatgpt-building-system
 3. Select the second activity
    
-![lab4](/resources/lab02.png)
+
+<img src="/resources/lab02.png" alt="Alt text" style="width: 60%;"/>
+
 4. Execute the first code line in Jupiter notebook
 5. Add the following code and in a codeblock and run
 
@@ -60,7 +62,8 @@ response = openai.ChatCompletion.create(
 print(response['choices'][0]['message']['content'])
 ```
 Please see the figure below if you have issues running this
-![lab4](/resources/lab03.png)
+<img src="/resources/lab03.png" alt="Alt text" style="width: 45%;"/>
+
 
 
 6. Copy the codeblock given above again to the next cell and perform the following changes
