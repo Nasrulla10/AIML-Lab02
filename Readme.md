@@ -130,10 +130,10 @@ print(summary)
 
 ## Exercise 6.
 1. Create an Account in Coursera - https://www.coursera.org/
-2. Register to these three courses
-https://www.coursera.org/learn/learning-chatgpt
-https://www.coursera.org/learn/prompt-engineering
-https://www.coursera.org/learn/learning-how-to-learn
+2. Register to these three courses</br></br>
+https://www.coursera.org/learn/learning-chatgpt</br>
+https://www.coursera.org/learn/prompt-engineering</br>
+https://www.coursera.org/learn/learning-how-to-learn</br></br>
 3. Select a topic from the Prompt Engineering Course given above, and develop your own prompt based on the style given
 4. Try it out in your favourite LLM
 5. Share the prompt, output and a screenshot of what you have done
