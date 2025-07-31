@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="/resources/sliit.png" alt="Alt text" style="width: 60%;" />
+  <img src="/resources/sliit.png" alt="Alt text" style="width: 10%;" />
 </div>
 # <div align="center">IT2011 - Artificial Intelligence and Machine Learning</div>
 ## <div align="center">Lab 02</div>
