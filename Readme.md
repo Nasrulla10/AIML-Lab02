@@ -11,7 +11,9 @@
 ## Exercise 1:
 Use the provided AWS Academy Generative AI Foundations course provided https://awsacademy.instructure.com/courses/129069 and complete the two activities in Module 04 - Using prompts and prompt engineering 
 
-![lab1](/resources/lab.png)
+
+<img src="/resources/lab.png" alt="Alt text" style="width: 40%;"/>
+
 
 1. Provide Screen shots of you doing the two labs as evidence.
 2. Submit your answers under Exercise 1
@@ -75,9 +77,8 @@ Please see the figure below if you have issues running this
 5. Under Models select a Model of your choice to find more details about it
 6. Create an account in https://colab.research.google.com
 7. Change Runtime to GPU
-![lab4](/resources/lab04.png)
-<img src="/resources/lab04.png" alt="Alt text" style="width: 50%;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="React Logo" width="100"/>
+
+<img src="/resources/lab04.png" alt="Alt text" style="width: 30%;"/>
 
 9. Run the summarization example in a codeblock
 10. 
