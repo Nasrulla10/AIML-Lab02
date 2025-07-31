@@ -84,7 +84,7 @@ Please see the figure below if you have issues running this</br>
 
 <img src="/resources/lab04.png" alt="Alt text" style="width: 30%;"/>
 
-9. Run the summarization example in a codeblock
+9. Run the summarization example in a codeblock, here the Hugging Face open model will be downloaded to Google Colab and then it will be exectuted. Because of this it will take some time to run the model for the first time.
 
 from transformers import pipeline
 
@@ -100,7 +100,7 @@ print(summary)
 
 ```
 10. Have a look at a specific summarization model available in HuggingFace - https://huggingface.co/EbanLee/kobart-summary-v3
-11. Run the summarization for this model given below
+11. Run the summarization for this model given below, here the Hugging Face open model will be downloaded to Google Colab and then it will be exectuted. Because of this it will take some time to run the model for the first time.
 
 ```
 from transformers import pipeline
@@ -121,9 +121,14 @@ print(summary)
 ```
 12. Select a Natural Language Model of your choice from Hugging Face
 
-<img src="/resources/lab05.png" alt="Alt text" style="width: 70%;"/>
+<img src="/resources/lab05.png" alt="Alt text" style="width: 40%;"/>
 
-14. 
-11. Attach screen shots of your solution running for 9, 11, 12
+13. Try your best to see if you can get this model running in Google CoLab.  In some instances you will have to install additional python libraries.
+14. Attach screen shots of your solution running for 9, 11, and 13
+15. Submit the code and the output for 13
+
+## Exercise 6.
+
+1. Submit all lab work you have done, including screenshots based on instructions given to you.
 
 
