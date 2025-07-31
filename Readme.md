@@ -40,6 +40,25 @@ In your submission, mention the LLMs used, the report, and a reflection of anyth
 3. Select the second activity
    
 ![lab4](/resources/lab02.png)
+4. Execute the first code line in Jupiter notebook
+5. Add the following code and in a codeblock and run
+
+```
+# Define system prompt (initial behavior) 
+system_prompt = {"role": "system", "content": "You are a helpful assistant with deep knowledge in physics."} 
+ 
+# Define user prompt (specific query) 
+user_prompt = {"role": "user", "content": "Explain how black holes are formed."} 
+ 
+# Send prompt to API 
+response = openai.ChatCompletion.create( 
+    model="gpt-3.5-turbo", 
+    messages=[system_prompt, user_prompt] 
+) 
+print(response['choices'][0]['message']['content'])
+```
+Please see the figure below if you have issues running this
+![lab4](/resources/lab03.png)
 
 
 ```c
