@@ -61,7 +61,8 @@ response = openai.ChatCompletion.create(
 ) 
 print(response['choices'][0]['message']['content'])
 ```
-Please see the figure below if you have issues running this
+Please see the figure below if you have issues running this</br>
+
 <img src="/resources/lab03.png" alt="Alt text" style="width: 45%;"/>
 
 
