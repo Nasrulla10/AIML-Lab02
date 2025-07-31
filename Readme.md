@@ -5,6 +5,7 @@
 * Learn about using different types of prompting styles
 * Use OpenAI's API
 * Calling Hugging Face and its APIs
+* Additional Resources
 
 
 
@@ -128,6 +129,17 @@ print(summary)
 15. Submit the code and the output for 13
 
 ## Exercise 6.
+1. Create an Account in Coursera - https://www.coursera.org/
+2. Register to these three courses
+https://www.coursera.org/learn/learning-chatgpt
+https://www.coursera.org/learn/prompt-engineering
+https://www.coursera.org/learn/learning-how-to-learn
+3. Select a topic from the Prompt Engineering Course given above, and develop your own prompt based on the style given
+4. Try it out in your favourite LLM
+5. Share the prompt, output and a screenshot of what you have done
+6. Go through these courses when you have some free time
+   
+## Exercise 7.
 
 1. Submit all lab work you have done, including screenshots based on instructions given to you.
 
