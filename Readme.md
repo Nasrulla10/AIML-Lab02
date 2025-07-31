@@ -38,9 +38,10 @@ In your submission, mention the LLMs used, the report, and a reflection of anyth
 
 ## Exercise 4:
 
-1. Create an account at https://www.deeplearning.ai
-2. Register to the free course at https://learn.deeplearning.ai/courses/chatgpt-building-system
-3. Select the second activity
+1. In this lab we will use OpenAI API to develop an application in python
+2. Create an account at https://www.deeplearning.ai
+3. Register to the free course at https://learn.deeplearning.ai/courses/chatgpt-building-system
+4. Select the second activity
    
 
 <img src="/resources/lab02.png" alt="Alt text" style="width: 60%;"/>
@@ -72,7 +73,7 @@ Please see the figure below if you have issues running this</br>
 7. Give a System Prompt for a chatbot to behave as an expert event planner
 8. Give a User Prompt asking for advice how to plan for an event you have to do, maybe your friends Birthday Party, or a Batch Outing
 9. Tryout a unique System prompt and User Prompt for a problem of your choice.
-10. Share screen shots and upload the prompts and responses for activities 7,8,9
+10. Share screen shots and upload the prompts and responses for the above activities 
 
 ## Exercise 5.
 1. Create an account in https://huggingface.co
