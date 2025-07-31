@@ -85,39 +85,39 @@ Please see the figure below if you have issues running this</br>
 <img src="/resources/lab04.png" alt="Alt text" style="width: 30%;"/>
 
 9. Run the summarization example in a codeblock
-10. 
+
+from transformers import pipeline
 
 
-
-
-```c
-#include <stdio.h>
-#include <omp.h>
-
-int main() {
-    // Start of parallel region
-    #pragma omp parallel
-    {
-        int thread_id = omp_get_thread_num();     // Get the current thread ID
-        int total_threads = omp_get_num_threads(); // Get total number of threads
-
-        printf("Hello from thread %d out of %d threads!\n", thread_id, total_threads);
-    }
-
-    return 0;
-}
 ```
-To compile your program
+summarizer = pipeline("summarization")
+summary = summarizer("""Hugging Face is a pioneering open-source AI platform
+  that empowers developers, researchers, and organizations to easily access and
+  deploy cutting-edge machine learning models for natural language processing, computer vision,
+  and beyond—democratizing AI and accelerating innovation through a collaborative ecosystem of tools,
+  datasets, and community-driven contributions.""", max_length=20)
+print(summary)
+
 ```
-gcc -fopenmp hello.c -o hello
-./hello
+10. Run the summarization for a specific model given below
+
 ```
+from transformers import pipeline
 
-Commit the code and add the output to a file output.txt 
+# Use a known summarization model
+summarizer = pipeline("summarization", model="EbanLee/kobart-summary-v3")
 
-## Exercise 4:
+# Input text to summarize
+text = """Hugging Face is a pioneering open-source AI platform
+that empowers developers, researchers, and organizations to easily access and
+deploy cutting-edge machine learning models for natural language processing, computer vision,
+and beyond—democratizing AI and accelerating innovation through a collaborative ecosystem of tools,
+datasets, and community-driven contributions."""
 
-Complete the self assessment quiz for Module 6
+# Generate summary
+summary = summarizer(text, max_length=20, min_length=5, do_sample=False)
+print(summary)
+```
+11. Attach screen shots of your solution running for 9 and 10
 
-Attach a screen shot of your completed self assessment for Module 6 and commit it
 
