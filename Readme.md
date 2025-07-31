@@ -150,5 +150,7 @@ https://www.coursera.org/learn/learning-how-to-learn</br></br>
 ## Exercise 7.
 
 1. Submit all lab work you have done, including screenshots based on instructions given to you.
+2. 
+<p align="center">(c) Faculty of Computing, SLIIT</p>
 
 
