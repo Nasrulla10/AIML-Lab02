@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/resources/sliit.png" alt="Alt text" width="100"/>
+  <img src="/resources/sliit.png" alt="Alt text" width="120"/>
 </p>
 
 <h1 align="center">IT2011 - Artificial Intelligence and Machine Learning</h1>
