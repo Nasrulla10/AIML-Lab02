@@ -37,7 +37,8 @@ In your submission, mention the LLMs used, the report, and a reflection of anyth
 
 1. Create an account at https://www.deeplearning.ai
 2. Register to the free course at https://learn.deeplearning.ai/courses/chatgpt-building-system
-3. 
+3. Select the second activity
+
 
 
 ```c
