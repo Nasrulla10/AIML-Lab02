@@ -93,10 +93,11 @@ Please see the figure below if you have issues running this</br>
 
 9. Run the summarization example in a codeblock, here the Hugging Face open model will be downloaded to Google Colab and then it will be exectuted. Because of this it will take some time to run the model for the first time.
 
-from transformers import pipeline
+
 
 
 ```
+from transformers import pipeline
 summarizer = pipeline("summarization")
 summary = summarizer("""Hugging Face is a pioneering open-source AI platform
   that empowers developers, researchers, and organizations to easily access and
